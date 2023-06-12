@@ -24,6 +24,8 @@ python -m pip install --upgrade pip
 pip install ipykernel
 python -m ipykernel install --user --name=<название вашей виртуальной среды>
 </pre>
+Запускаем jupyter notebook и выбираем в качестве ядра наше созданное виртуальное окружение. Например на скриншоте ниже - это ядро tfod.
+<p align="center"><img src="/imgs/Jupyter_view.png" width="500" alt="Эмоции"></p>
 
 ## Подходы к решению задачи
 ### Задача классификации
