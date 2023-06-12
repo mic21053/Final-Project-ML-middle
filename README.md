@@ -78,4 +78,5 @@ FrameWithEmotion() - класс, находящий на изображении 
 !python3 emo_on_photo.py ./test_kaggle/29.jpg
 </pre>
 
-<p align="center"><img src="/imgs/valence-arousal.jpg" width="500" alt="Схема"></p>
+<p align="center"><img src="/imgs/Девочка_злость.png" width="500" alt="Злая_девочка"></p>
+
