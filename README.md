@@ -97,3 +97,11 @@ FrameWithEmotion() - класс, находящий на изображении 
 !python3 emo_on_video.py Эмоции.avi
 </pre>
 
+<p align="center"><img src="/imgs/Счастлив.png" width="500" alt="Счастлив"></p>
+
+<pre>
+!python3 emo_on_video.py Эмоции.avi va
+</pre>
+
+<p align="center"><img src="/imgs/Счастлив2.png" width="500" alt="Счастлив2"></p>
+
