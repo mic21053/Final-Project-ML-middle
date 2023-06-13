@@ -113,4 +113,4 @@ FrameWithEmotion() - класс, находящий на изображении 
 !python3 emo_on_web.py
 </pre>
 
-
+<p align="center"><img src="/imgs/happy_web.png" width="500" alt="happy_web"></p>
